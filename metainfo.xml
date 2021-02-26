@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="C67A6283-416E-4E4A-97BF-CFCE9F558E4C" version="0">
+<presentation availableOffline="1" guid="CF75C2C2-C66E-49DB-B1EC-81BB7B18636A" version="0">
 	<info>
 		<title>Placement test A2-b1</title>
 		<description/>
 	</info>
-	<files index="id16" thumbnail="id12" totalSize="2240727">
+	<files index="id16" thumbnail="id12" totalSize="2231291">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
